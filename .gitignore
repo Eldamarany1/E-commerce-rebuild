@@ -42,4 +42,5 @@ testem.log
 Thumbs.db
 
 # Files of my choice
-Angular-instructions.md
+*.md
+!readme.md
